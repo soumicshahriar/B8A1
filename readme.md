@@ -1,63 +1,40 @@
 TypeScript Assignment
-Assignment Overview
+📌 Assignment Overview
 
-This repository contains my completed TypeScript assignment, including practical coding solutions and two technical blog posts. The assignment focuses on understanding TypeScript fundamentals, asynchronous programming, type safety, and reusable code.
+This repository contains my TypeScript assignment solutions and two blog posts covering important TypeScript concepts.
 
-Assignment Tasks
+The assignment focuses on understanding TypeScript fundamentals, type systems, generics, and asynchronous programming with Promises.
 
-1. TypeScript Coding Solution
-   Implemented validateAgeAsync() using TypeScript.
-   Used Promise<string> as the explicit return type.
-   Used new Promise(), resolve(), and reject().
-   Implemented a 1-second delay using setTimeout().
-   Used Error instances to handle invalid age conditions.
-   Practiced asynchronous programming using async/await.
-2. Technical Blog Posts
-
-I have written two technical blog posts covering important TypeScript concepts.
-
-Blog 1: Type Aliases vs Interface in TypeScript
-
-Explains the core differences between Type Aliases and Interfaces, their features, and when to use each one.
-
-Read Blog 1: Type Aliases vs Interface
-
-Blog 2: How Generics Work in TypeScript and Their Role in Asynchronous Promise<T> Responses
-
-Explains how Generics work in TypeScript, how they improve code reusability, and how they help maintain type safety when working with asynchronous Promises.
-
-Read Blog 2: TypeScript Generics and Promises
-
-Repository Structure
+📂 Repository Structure
 text
-typescript-assignment/
-│
 ├── solutions.ts
-│
 ├── type-vs-interface.md
-│
 ├── typescript-generics-promises.md
-│
 └── README.md
 
-Technologies Used
+📝 Blog Posts
+Type vs Interface in TypeScript
+
+A discussion of the differences between type and interface in TypeScript, their features, use cases, and when to use each.
+
+📖 Read Blog: Type vs Interface
+
+TypeScript Generics and Promises
+
+An overview of TypeScript Generics and Promises, including how they work, their benefits, and how they help write reusable and asynchronous code.
+
+📖 Read Blog: TypeScript Generics and Promises
+
+💻 Assignment Solutions
+
+The solutions.ts file contains the TypeScript solutions to the assigned problems.
+
+🛠️ Technologies Used
 TypeScript
 JavaScript
 Node.js
-Git
-GitHub
-Markdown
-Learning Outcomes
+🎯 Purpose
 
-Through this assignment, I gained practical experience with:
+The purpose of this assignment is to strengthen my understanding of TypeScript concepts, improve problem-solving skills, and gain practical experience writing clean, reusable, and maintainable code.
 
-TypeScript functions and type annotations.
-Promises and asynchronous programming.
-Async/await and error handling.
-Type Aliases and Interfaces.
-Generics and Promise<T>.
-Writing technical documentation using Markdown.
-Managing projects using Git and GitHub.
-Author
-
-TypeScript Assignment Submission
+Thank you for visiting my repository!
