@@ -5,9 +5,11 @@ This repository contains my TypeScript assignment solutions and two blog posts c
 
 The assignment focuses on understanding TypeScript fundamentals, type systems, generics, and asynchronous programming with Promises.
 
+[solutions](solutions.ts)
+
 📂 Repository Structure
 text
-├── solutions.ts
+├── solutions.ts 
 ├── type-vs-interface.md
 ├── typescript-generics-promises.md
 └── README.md
