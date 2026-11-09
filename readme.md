@@ -17,13 +17,13 @@ Type vs Interface in TypeScript
 
 A discussion of the differences between type and interface in TypeScript, their features, use cases, and when to use each.
 
-📖 Read Blog: Type vs Interface
+📖 Read Blog: [Type vs Interface](type-vs-interface.md)
 
 TypeScript Generics and Promises
 
 An overview of TypeScript Generics and Promises, including how they work, their benefits, and how they help write reusable and asynchronous code.
 
-📖 Read Blog: TypeScript Generics and Promises
+📖 Read Blog: [TypeScript Generics and Promises](typescript-generics-promises.md)
 
 💻 Assignment Solutions
 
